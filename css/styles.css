@@ -1,0 +1,34 @@
+.jumbotron {
+  font-size: 60px;
+  font-style: italic;
+  color: yellow;
+ }
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+#welcome {
+  width: auto;
+  /*height: 250px;*/
+  text-shadow: 50px;
+}
+
+#displaydice {
+  font-size: 10em;
+  padding: 0;
+  margin: 0;
+  height: 120px;
+}
+
+#main {
+  text-align: center;
+}
+
+body {
+  background-image: url(../images/hand-dice.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: yellow;
+}
